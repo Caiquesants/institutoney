@@ -1,0 +1,33 @@
+header{
+    top: 0%;
+    height: 150px;
+    width: 125%;
+    background-color: red ;
+    text-align: center;
+}
+img{
+   
+  right: -600px;
+    display: flex;
+    position: relative;
+    height: 150px;
+    width: 150px;
+}
+#Sobre{
+    text-align: center;
+   
+
+    
+}
+h2{
+    text-align: center;
+    color: black;
+}
+p{
+    text-align:center;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+*{
+    background-color:white;
+}
