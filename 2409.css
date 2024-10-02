@@ -67,3 +67,102 @@ footer{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
+#textozap{
+    position: relative;
+    top: -2px;
+    left: 20%;
+
+}
+#infozap{
+    position: relative;
+    top: 7px;
+    left: -20%;
+    font-size: 1.9rem;
+}
+#botaozap{
+    position: relative;
+    top: -25px;
+    left: 30%;
+    bottom: 100%;
+    font: Helvetica;
+    font-size: 1.9rem;
+    color: white;
+    background-color: green;
+
+}
+#zap{
+    position: absolute;
+    top: 2040px;
+    left: 510px;
+
+}
+#textozap{
+    color: greenyellow;
+    position: relative;
+    left: 20px;
+    transition: color 0.5s;
+    border: none;
+    margin: 0%;
+
+}
+#textozap:hover{
+    color: black;
+    background-color: greenyellow;
+}
+#textoinsta{
+    position: relative;
+    top: -2px;
+    left: 20%;
+
+}
+#infointa{
+    position: relative;
+    top: 7px;
+    left: -20%;
+    font-size: 1.9rem;
+}
+#botaoinsta{
+    position: relative;
+    top: -25px;
+    left: 30%;
+    bottom: 100%;
+    font: Helvetica;
+    font-size: 1.9rem;
+    color: white;
+    background-color: green;
+
+}
+#insta{
+    position: absolute;
+    top: 2085px;
+    left: 520px;
+
+}
+#textoinsta{
+    color: greenyellow;
+    position: relative;
+    top: 10px;
+    left: 20px;
+    transition: color 0.5s;
+    border: none;
+    margin: 0%;
+
+}
+#textoinsta:hover{
+    color: black;
+    background-color: greenyellow;
+}
+#copy{
+    position: relative;
+    top: 10px;
+}
+#video{
+    text-align: center;
+    margin: 80px;
+}
+#videos iframe{
+    border-radius: 10px;
+    width: 100%;
+    max-width: 325px;
+}
+
